@@ -1,0 +1,13 @@
+1:God of War Ragnarok,R$ 236.65
+1:Pokemon Go 4,R$ 1.11
+1:Erro-jogo com nome repetido: God of War Ragnarok
+1:Pacman,R$ 68.45
+2:Erro-jogo com nome repetido: God of War Ragnarok
+2:Erro-jogo com nome repetido: Pacman
+3:Nome inexistente.
+4:Nenhum jogo encontrado.
+5:Nenhum jogo encontrado.
+6:R$ 306.22
+7:Nenhum jogo encontrado.
+8:R$ 92.79,Pacman,1980,R$ 62.23,Atari,Acao,R$ 68.45
+9:Nenhum jogo encontrado.

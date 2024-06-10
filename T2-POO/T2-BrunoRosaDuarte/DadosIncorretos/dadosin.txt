@@ -1,0 +1,11 @@
+God of War Ragnarok;2022;215.14;PS4;Acao
+Pokemon Go 4;2016;1.01;Celular;Acao
+God of War Ragnarok;2015;222.22;PS3;Simulacao
+Pacman;1980;62.23;Atari;Acao
+-1
+God of War Ragnarok;-3000;47.77;24
+Pacman;2023;78.87;4
+-1
+Space Invaders
+1978
+Estrategia
